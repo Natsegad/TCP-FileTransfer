@@ -12,6 +12,7 @@ const (
 	tcpGetOk  = "TCP-GET-OK"
 	tcpAddOk  = "TCP-ADD-OK"
 	tcpUnknow = "TCP-UNKNOW-REQST"
+	tcpErr    = ""
 )
 
 // If have error return true
